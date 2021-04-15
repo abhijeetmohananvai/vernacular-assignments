@@ -1,6 +1,6 @@
 # Assignments
 
-
+```
 .
 ├── README.md
 ├── day1
@@ -8,8 +8,7 @@
 │   └── day1-reverseshellscript.sh
 ├── day2
 │   ├── README.md
-│   ├── paragraph
-│   ├── paragraph-bkp
+│   ├── paragraph.txt
 │   ├── task1
 │   │   ├── README.md
 │   │   ├── paragraph
@@ -44,6 +43,4 @@
     │   └── requirements.txt
     └── task2
         ├── README.md
-        └── image.png
-
-9 directories, 34 files
+        └── image.png```
