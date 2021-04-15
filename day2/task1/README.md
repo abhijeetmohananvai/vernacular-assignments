@@ -1,4 +1,4 @@
-Global replacing a word
+# Global replacing a word
 
 Sqeuence to Watch the Screenshots
 
