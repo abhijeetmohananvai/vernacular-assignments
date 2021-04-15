@@ -1,3 +1,1 @@
-paragraph_raw.png -- original paragrph
-
-
+paragraph.txt-- original paragraph file
